@@ -1,0 +1,13 @@
+.contenedor{
+  display: grid;
+  grid-template-columns: 100%;
+}
+
+.contenedor div{
+  background: white;
+  padding: 1em;
+}
+
+body{
+  background: #5C6D83;
+}
